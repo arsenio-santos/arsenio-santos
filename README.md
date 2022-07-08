@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Arsênio Santos
+
+- 🔥 Experienced in operations/support area as a senior analyst and focused on BackEnd development.
+- 🔭 I’m currently working at V.tal company.
 
 <!--
 **arsenio-santos/arsenio-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
